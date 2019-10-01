@@ -11,7 +11,7 @@ Esteganografía con Python 3. Ejemplo para ocultar texto en imágenes
 
 Los archivos importantes son **ocultar.py** y **leer.py**, dentro de ellos está el código necesario y las funciones para la esteganografía
 
-  
+Recuerda tener instalado Python y pip.  
 
 ## Ocultar
 
