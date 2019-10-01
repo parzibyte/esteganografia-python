@@ -8,7 +8,7 @@
 Esteganografía con Python 3. Ejemplo para ocultar texto en imágenes
 
   
-
+**Nota:** Recomiendo primero leer sobre [esteganografía, LSB, MSB, bits y pixeles](https://parzibyte.me/blog/2018/04/05/esteganografia-imagenes-lsb/)
   
 
 # Modo de uso
